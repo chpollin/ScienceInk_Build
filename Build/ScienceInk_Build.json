@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "2D Game Example",
-"productVersion": "1.0",
+"companyName": "Zentrum für Informationsmodellierung",
+"productName": "Meister Hanns Quest",
+"productVersion": "0.1-alpha",
 "dataUrl": "ScienceInk_Build.data.unityweb",
 "asmCodeUrl": "ScienceInk_Build.asm.code.unityweb",
 "asmMemoryUrl": "ScienceInk_Build.asm.memory.unityweb",
